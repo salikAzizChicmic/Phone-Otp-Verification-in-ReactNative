@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631323666655",
+    "project_id": "otp-verification-6e3bf",
+    "storage_bucket": "otp-verification-6e3bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631323666655:android:d0a87bc38e786859a8a16a",
+        "android_client_info": {
+          "package_name": "com.linkedinlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Hbb4lOOQhWNkYIas7NH76X3OXGk1Ehk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
